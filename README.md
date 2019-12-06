@@ -14,7 +14,7 @@ Compile a grammar in Xtreams' PEG into a PetitParser class.
 Build a PetitParser of parser combinators from a grammar in Xtreams' PEG.
 
 # Example
-## Xtreams PEG to PetitParser Class
+## Xtreams' PEG to PetitParser Class
 ```Smalltalk
 "To parse a PEG and generate code use:"
 aClass :=
@@ -26,7 +26,7 @@ aClass :=
            class: TargetClass
            start: 'Grammar').
 ```
-## Xtreams PEG to PetitParser Parser
+## Xtreams' PEG to PetitParser Parser
 ```Smalltalk
 "To build an XML parser do:"
 parser :=
